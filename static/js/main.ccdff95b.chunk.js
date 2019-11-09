@@ -1,0 +1,2 @@
+(this["webpackJsonpsoumanpaul.github.io"]=this["webpackJsonpsoumanpaul.github.io"]||[]).push([[0],[,,,function(e,n,t){e.exports=t(10)},,,,,function(e,n,t){},function(e,n,t){},function(e,n,t){"use strict";t.r(n);var a=t(0),u=t.n(a),o=t(2),r=t.n(o);t(8),t(9);var c=function(){return u.a.createElement("div",{className:"App"},u.a.createElement("header",{className:"App-header"},u.a.createElement("h1",null,"Hi!, I'm Souman")))};r.a.render(u.a.createElement(c,null),document.getElementById("root"))}],[[3,1,2]]]);
+//# sourceMappingURL=main.ccdff95b.chunk.js.map
